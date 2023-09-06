@@ -1,0 +1,7 @@
+[package]
+name = "slm_rm_rf"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rm_rf = "0.6.1"
